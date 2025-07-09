@@ -20,7 +20,7 @@ My work is self-funded. If you find value in my projects and publications, pleas
 *   **Status:** Published on viXra, July 2025
 *   **Identifier:** viXra:2507.0048
 *   **Abstract:** This paper presents a novel methodology for the automated discovery of a quantum circuit for random number generation using an evolutionary algorithm. The resulting circuit was used to generate a 1MB data stream which successfully passed the full `dieharder` statistical test suite.
-*   **[Read the Full Paper Here](https://vixra.org/abs/2507.0048)**
+*   **[Read the Full Paper Here](https://ai.vixra.org/abs/2507.0048)**
 
 ---
 
