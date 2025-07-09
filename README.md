@@ -33,7 +33,7 @@ Here is a selection of my research projects. The full portfolio is available on 
 *   **Quantum Cellular Automata (QCA):** Exploring the complex emergent behavior of quantum rule systems, including Rule 30, Rule 90, and Rule 110.
     *   [View the Quantum Rule 110 Notebook](https://github.com/peterbabulik/QuantumWalker/blob/main/QuantumRule110.ipynb)
 *   **Quantum Machine Learning (QML):** Implementing and testing quantum kernels and other QML models for tasks like classification.
-    *   [View the Quantum Kernel SVM Project](https://github.com/peterbabulik/QuantumWalker/blob/main/Quantum_Kernel_SVM_on_QPU.ipynb)
+    *   [View the Quantum Kernel SVM Project]([https://github.com/peterbabulik/QuantumWalker/blob/main/Quantum_Kernel_SVM_on_QPU.ipynb](https://github.com/peterbabulik/QuantumWalker/blob/c338a88f13723230ca30b74d568ac05565cceec3/Quantum_Kernel_SVM_on_QPU_and_Aer.ipynb))
 
 ---
 
